@@ -1,0 +1,27 @@
+{
+  "name": "create-web-app-server",
+  "version": "1.0.0",
+  "description": "Create your next web app with NodeJS 🌐🌐",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luctst/create-web-app-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luctst/create-web-app-server/issues"
+  },
+  "homepage": "https://github.com/luctst/create-web-app-server#readme",
+  "devDependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
